@@ -2,5 +2,8 @@ Hola a todos, yo soy el Leon
 Y vivo dentro de la selva
 
 
+<<<<<<< HEAD
+Hola 
+=======
 Hola y chau
-Hola de nuevo 
+>>>>>>> parent of 837caeb (Merge branch 'master' into rama3)
